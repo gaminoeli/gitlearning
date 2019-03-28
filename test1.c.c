@@ -1,10 +1,8 @@
 #include<aio.h>
 #include<stdio.h>
 #include<string.h>
-#include<aio.h>
-#include<aio.h>
-#include<aio.h>
-7#include<aio.h>
+#include<math.h>
+#include<time.h>
 8#include<aio.h>
 9#include<aio.h>
 #include<10aio.h>
