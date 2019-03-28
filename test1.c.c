@@ -1,6 +1,6 @@
 #include<aio.h>
 #include<stdio.h>
-#include<aio.h>
+#include<string.h>
 #include<aio.h>
 #include<aio.h>
 #include<aio.h>
